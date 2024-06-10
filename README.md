@@ -6,13 +6,11 @@
 
 ##概要
 
-
 ## ジャンル
 横スクロールアクション
 
 ## プラットフォーム
-[Androidビルドデータ]
-[Windowsビルドデータ]
+[Windowsビルドデータ](https://drive.google.com/drive/u/0/folders/1ZtUIaj_LV1SG8RSJVkA41aIKeYweFNU-)
 
 ## ゲームストーリ
 子供が持っていた人形が帰り際に落ちてしまい、落ちた人形は持ち主である子供のもとへ戻る
